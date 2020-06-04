@@ -15,6 +15,7 @@ public class MyController{
 }
 ```
 
+### typescript
 ``` ts
 import { promisifyRemoteAction } from 'remote-action-promise';
 
